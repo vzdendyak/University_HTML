@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Галерея</title>
+    <style>
+        h1 {
+            font-size: 20px;
+            text-align: center;
+        }
+
+        #to-index {
+            font-style: italic;
+        }
+
+        h2, h3 {
+            text-align: center;
+        }
+
+        img {
+            display: block;
+            margin: 0 auto;
+        }
+
+        .folder-photo {
+            font-size: 1.05em;
+
+        }
+
+        .online-photo {
+            font-size: 1.365em;
+
+        }
+    </style>
+</head>
+
+<body>
+<h1>Галерея Здендяка Василя Богдановича</h1>
+<a href="index.html" id="to-index">Назад на головну</a>
+<h2>Мої зображення</h2>
+<h3 class="folder-photo">Зображення у цій папці</h3>
+<img
+        src="my-photo-1.jpg"
+        alt="It`s image in this folder"
+        width="640"
+        height="480"
+/>
+
+<h3 class="folder-photo">Зображення у папці</h3>
+<img
+        src="../Lab1/images/my-photo-2.jpg"
+        alt="It`s image in other folder"
+        width="640"
+        height="480"
+/>
+
+<h3 class="online-photo">Зображення онлайн</h3>
+<img
+        src="https://picsum.photos/1280/1024"
+        alt="It`s image from internet"
+        width="1280"
+        height="1024"
+/>
+</body>
+</html>
