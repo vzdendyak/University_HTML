@@ -1,0 +1,73 @@
+body {
+  font-family: 'Newsreader', serif;
+}
+h1 {
+  text-align: center;
+  font-size: 24px;
+}
+
+h2 {
+  text-align: center;
+}
+
+#to-index {
+  font-style: italic;
+}
+
+th {
+  background-color: #008000;
+  color: #f1f1f1;
+  font-weight: 700;
+}
+
+table,
+th,
+td {
+  border: 3px solid black;
+}
+
+table tr:nth-child(odd) {
+  background: #ffffff;
+}
+
+table tr:nth-child(even) {
+  background: #808080;
+  color: #f7ff00;
+}
+
+td:last-child,
+th:last-child {
+  text-align: end;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+@media screen and (min-width: 993px) {
+  th {
+    font-size: 1.3em;
+  }
+
+  td {
+    font-size: 1.2em;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 992px) {
+  th {
+    font-size: 1.2em;
+  }
+
+  td {
+    font-size: 1.1em;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  th {
+    font-size: 1.1em;
+  }
+}
