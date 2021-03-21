@@ -1,0 +1,49 @@
+h1 {
+  font-size: 20px;
+  text-align: center;
+}
+
+#to-index {
+  font-style: italic;
+}
+
+h2,
+h3 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.folder-photo {
+  font-size: 1.05em;
+}
+
+.online-photo {
+  font-size: 1.365em;
+}
+.container {
+  display: flex;
+  align-items: center;
+}
+.container div {
+  flex: 1;
+  margin: 20px;
+}
+@media screen and (max-width: 992px) {
+  .container {
+    flex-wrap: wrap;
+  }
+  .container div:nth-child(3) {
+    flex-basis: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container div {
+    flex-basis: 100%;
+  }
+}
