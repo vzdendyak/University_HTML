@@ -1,0 +1,29 @@
+.navbar-brand {
+  font-weight: 700;
+  font-size: 33px;
+}
+.row div div {
+  background-color: #d1c4e9;
+}
+.navbar {
+  border-bottom: 2px solid gray;
+}
+
+.nav-item {
+  border-top: 2px solid gray;
+  transition-duration: 0.4s;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.text {
+  text-align: justify;
+}
+
+.nav-item:hover {
+  background-color: #d1c4e9;
+}
