@@ -1,0 +1,55 @@
+<html>
+<head>
+    <script src="js/scripts.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+<h1>Calcula(h)tor</h1>
+<div class="container">
+    <div class="row">
+        <div class="row pb-3 col-12">
+            <input type="number" id="v1" class="col-3 form-control" placeholder="Value 1"/>
+            <select name="t1" id="t1" class="col-3 custom-select">
+                <option value="leg">Leg</option>
+                <option value="hypotenuse">Hypotenuse</option>
+                <option value="adjacent angle">Adjacent Angle</option>
+                <option value="opposite angle">Opposite Angle</option>
+                <option value="angle">Angle</option>
+            </select>
+            <input type="number" class="col-3 form-control" id="v2" placeholder="Value 2"/>
+            <select name="t1" id="t2" class="col-3 custom-select">
+                <option value="leg">Leg</option>
+                <option value="hypotenuse">Hypotenuse</option>
+                <option value="adjacent angle">Adjacent Angle</option>
+                <option value="opposite angle">Opposite Angle</option>
+                <option value="angle">Angle</option>
+            </select>
+        </div>
+        <div class="col-12">
+            <button onclick="calculate()" class="w-100 btn btn-success">Calcula(h)te</button>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6">
+            <h5>Example</h5>
+            <div id="leg-a-ex-span">Leg a: 4</div>
+            <div id="leg-b-ex-span">Leg b: 3</div>
+            <div id="hypotenuse-ex-span">Hypotenuse: 5</div>
+            <div id="adjacent-angle-ex-span">Alpha: 36.86989764584402</div>
+            <div id="opposite-angle-ex-span">Beta: 53.13010235415598</div>
+        </div>
+        <div class="col-6">
+            <h5>Results</h5>
+            <div id="leg-a-span"></div>
+            <div id="leg-b-span"></div>
+            <div id="hypotenuse-span"></div>
+            <div id="adjacent-angle-span"></div>
+            <div id="opposite-angle-span"></div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
