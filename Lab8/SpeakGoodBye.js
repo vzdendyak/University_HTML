@@ -1,5 +1,8 @@
-
-var speakGoodBye = function speak(name) {
+function sayGoodBye() {
     var speakWord = "Good Bye";
-    console.log(speakWord + " " + name);
+
+    function speak(name) {
+        console.log(speakWord + " " + name);
+    }
+    return speak;
 }

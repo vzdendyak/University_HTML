@@ -1,10 +1,11 @@
 (function start() {
+
     var names = ["Bill", "John", "Jen", "Jason", "Paul", "Frank", "Steven", "Larry", "Paula", "Laura", "Jim"];
     names.forEach(n => {
         if (n.toLocaleLowerCase()[0] === "j") {
-            speakGoodBye(n);
+            sayHello()(n);
         } else {
-            speakHello(n);
+            sayGoodBye()(n);
         }
     })
 
@@ -18,9 +19,9 @@
         console.log(`Ascii sum for name ${n}: ${asciiSum}`);
 
         if (asciiSum > 429) {
-            speakGoodBye(n);
+            sayGoodBye()(n);
         } else {
-            speakHello(n);
+            sayHello()(n);
         }
     })
 }())
