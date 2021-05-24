@@ -1,0 +1,39 @@
+.navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+.text-truncate-b {
+  font-size: 14px;
+  display: -webkit-box;
+  -webkit-line-clamp: 7;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.card {
+  transition: all 0.25s ease;
+}
+.card:hover {
+  box-shadow: 0 15px 30px rgb(0 0 0 / 30%);
+  cursor: pointer;
+}
+
+#main-content {
+  background: #f2f3f4;
+}
+
+.m-nav {
+  background: #f2f3f4;
+  border-radius: 5px;
+  color: #000;
+  padding: 0px 10px;
+  transition: all 0.25s ease;
+  margin-right: 15px;
+}
+.m-nav:hover {
+  background: #cdcecf;
+  cursor: pointer;
+}
+
+.m-nav a {
+  color: black !important;
+}

@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Item 1 (Cat 1)",
+      "shortname": "c1i1",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+      "price": "100",
+      "image": "https://picsum.photos/500/520"
+    },
+    {
+      "id": 2,
+      "name": "Item 2 (Cat 1)",
+      "shortname": "c1i2",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+      "price": "200",
+      "image": "https://picsum.photos/500/521"
+    },
+    {
+      "id": 3,
+      "name": "Item 3 (Cat 1)",
+      "shortname": "c1i3",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+      "price": "300",
+      "image": "https://picsum.photos/500/522"
+    },
+    {
+      "id": 4,
+      "name": "Item 4 (Cat 1)",
+      "shortname": "c1i4",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+      "price": "400",
+      "image": "https://picsum.photos/500/523"
+    },
+    {
+      "id": 5,
+      "name": "Item 5 (Cat 1)",
+      "shortname": "c1i5",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+      "price": "500",
+      "image": "https://picsum.photos/500/524"
+    },
+    {
+      "id": 6,
+      "name": "Item 6 (Cat 1)",
+      "shortname": "c1i6",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+      "price": "600",
+      "image": "https://picsum.photos/500/525"
+    }
+  ]
+  

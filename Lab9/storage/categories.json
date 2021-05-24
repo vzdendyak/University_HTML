@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Category1",
+    "shortname": "cat1",
+    "notes": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quLorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+    "image": "https://picsum.photos/1280/1023"
+  },
+  {
+    "id": 2,
+    "name": "Category2",
+    "shortname": "cat2",
+    "notes": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+    "image": "https://picsum.photos/1280/1022"
+  },
+  {
+    "id": 3,
+    "name": "Category3",
+    "shortname": "cat3",
+    "notes": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+    "image": "https://picsum.photos/1280/1024"
+  },
+  {
+    "id": 4,
+    "name": "Category4",
+    "shortname": "cat4",
+    "notes": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+    "image": "https://picsum.photos/1280/1021"
+  },
+  {
+    "id": 5,
+    "name": "Category5",
+    "shortname": "cat5",
+    "notes": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+    "image": "https://picsum.photos/1280/1025"
+  },
+  {
+    "id": 6,
+    "name": "Category6",
+    "shortname": "cat6",
+    "notes": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod vel rem ex quo iusto distinctio,doloremque perspiciatis alias voluptatum placeat facere cum dolor recusandae similique eius ut eos accusantium architecto!",
+    "image": "https://picsum.photos/1280/1026"
+  }
+]
